@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-invh-eslint-prettier",
+  "version": "1.0.0",
+  "description": "eslint and prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneu/eslint-config-invh-eslint-prettier.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": "Shane Unger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneu/eslint-config-invh-eslint-prettier/issues"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-react": "^7.5.1",
+    "prettier": "^1.8.2"
+  },
+  "homepage": "https://github.com/shaneu/eslint-config-invh-eslint-prettier#readme"
+}
