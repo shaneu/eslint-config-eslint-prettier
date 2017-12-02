@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/shaneu/eslint-config-eslint-prettier/issues"
   },
+  "peerDependencies": "eslint-plugin-custom-prettier",
   "dependencies": {
     "babel-eslint": "^8.0.2",
     "eslint": "^4.12.1",

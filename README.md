@@ -18,4 +18,11 @@ single line,
 }
 ```
 
+and make sure there's a prettier.config.js file in the root of your project
+with this single line,
+
+```
+module.exports = require('eslint-plugin-custom-prettier');
+```
+
 and you're sitting on easy street.
