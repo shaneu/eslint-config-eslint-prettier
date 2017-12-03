@@ -6,7 +6,7 @@ module.exports = {
     "prettier",
     "prettier/react",
   ],
-  plugins: ["react", "flowtype", "prettier", "import", "custom-prettier"],
+  plugins: ["react", "flowtype", "prettier", "import"],
   parserOptions: {
     ecmaVersion: 8,
     sourceType: "module",
