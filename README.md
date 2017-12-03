@@ -6,7 +6,7 @@ rules? Well, take a load off friend, I have your solution right here. Just paste
 this line in the ole terminal over there,
 
 ```
-  npm i -D https://github.com/shaneu/eslint-config-eslint-prettier
+  npm i -D eslint-config-eslint-prettier
 ```
 
 make sure there is a .eslintrc file in the root of your project with this one
